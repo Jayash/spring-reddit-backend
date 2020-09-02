@@ -1,5 +1,5 @@
 # spring-reddit-backend
-Reddit clone built using Spring Boot, Spring Security with JPA Authentication, Spring Data JPA with Oracle, Spring MVC.
+Reddit clone built using Spring Boot, Spring Security, Spring Data JPA with Oracle database, Spring MVC and the login functionality using the Token-Based Authentication System with the help of JWT (JSON Web Tokens).
 
 # Screenshots
 ![image](https://user-images.githubusercontent.com/7610065/92024539-f2e3d800-ed7b-11ea-9e25-869e8634e10e.png)
