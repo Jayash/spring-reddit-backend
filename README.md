@@ -1,4 +1,6 @@
 # spring-reddit-backend
+Backend Application for Reddit
+
 Reddit clone built using Spring Boot, Spring Security, Spring Data JPA with Oracle database, Spring MVC and the login functionality using the Token-Based Authentication System with the help of JWT (JSON Web Tokens).
 
 # Screenshots
